@@ -1,0 +1,1 @@
+Esta semana revisaremos la gestión de archivos con Python, tanto archivos de texto, como csv y JSON, que son la puerta de entrada para la gestión de datos en Python. Además, nos introduciremos en una librería muy útil llamada requests, que nos permitirá realizar requerimientos web http para poder obtener datos de Internet y empezar a trabajar con APIs básica.

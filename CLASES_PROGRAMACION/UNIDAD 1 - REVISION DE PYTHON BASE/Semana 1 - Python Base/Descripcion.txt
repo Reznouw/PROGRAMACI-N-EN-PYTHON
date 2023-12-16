@@ -1,0 +1,4 @@
+Bienvenidos a las capacidades avanzadas de Python.
+Esta semana revisaremos todo lo aprendido previamente en Python, utilizando pequeños códigos para solucionar problemas específicos, mientras vamos conociendo así también nuevas herramientas o estilos de programación en Python.
+Revisaremos las funciones en Python y la gestión de sus argumentos, las instrucciones zip y enumerate, conoceremos los iteradores y el uso de yield, la programación funcional, la programación orientada a objetos con mayor detalle, así como el uso de los datos de tiempo en Python.
+Todo el curso anterior y más en una sola sesión!
